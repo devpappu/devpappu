@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Pappu</h1>
-<h3 align="center">A passionate frontend and backen developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 
